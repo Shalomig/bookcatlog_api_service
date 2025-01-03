@@ -1,0 +1,4 @@
+com/example/repository/BookRepository.class
+com/example/model/Book.class
+com/example/controller/BookController.class
+com/example/MainApplication.class
